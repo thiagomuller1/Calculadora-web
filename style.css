@@ -1,0 +1,41 @@
+.calc {
+    background-color: rgb(98, 0, 255);
+    width: 300px;
+    height: 500px;
+    margin: 0;
+    margin: auto;
+    border-color: #000000;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 30px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.calc select {
+    margin-top: 75px;
+    border: 4px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+.calc select:hover{
+    color: #000000;
+}
+input{
+    border: 3px solid #000000;
+    border-radius: 15px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000
+}
+button{
+    font-size: 30px;
+    border-radius: 5px;
+    border-color: #11a51d;
+}
+.calc button:hover{
+    color: #10810d;;
+}
